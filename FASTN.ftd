@@ -6,6 +6,7 @@ favicon: /-/tanushree17m.github.io/portfolio/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: tanushree17m.github.io/portfolio/FASTN/my-ds
